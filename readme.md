@@ -195,17 +195,16 @@ Manages global state, e.g., cart and user sessions.
 9. Scalability Plan🐱‍🏍
     
 Performance Optimization:
-
 Use CDN for static assets.
 Implement caching for database queries.
+
 Horizontal Scaling:
-
 Use serverless architecture for backend endpoints.
+
 Monitoring and Logging:
-
 Integrate tools like Sentry for error tracking and Datadog for performance monitoring.
-Feature Expansion:
 
+Feature Expansion:
 Add subscription services for recurring orders.
 Introduce multilingual support.
 
